@@ -14,10 +14,6 @@
 
 ![App Screenshot](https://github.com/im-w/dBoard/blob/main/developFiles/Screenshot4.png?raw=true)
 
-## Roadmap
-
-- Fix delete board bug
-    - When you delete a board, the lists in that board should also be deleted from the lists.csv file.
 
 ## Flowchart
 
